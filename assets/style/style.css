@@ -666,7 +666,7 @@ transform: scale(1.07);
   color: var(--orange);
   margin-top: 30px;
 }
-.footer-second li, .footer-trinity li, .footer-four li {
+/* .footer-second li, .footer-trinity li, .footer-four li {
   margin-bottom: 10px; /* Отступ между элементами списка */
 }
 .footer p {
@@ -675,4 +675,4 @@ transform: scale(1.07);
 }
 .footer .container p{
 color: var(--white-orange);
-}
+} */
