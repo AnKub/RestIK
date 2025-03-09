@@ -1,1 +1,1 @@
-just for fun_ soe example Landing
+just for fun_ some example Landing
